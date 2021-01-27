@@ -2,7 +2,6 @@
 
 ## IOT scanner
 
-functions
 * client side
 * server side
   * iot scanner
